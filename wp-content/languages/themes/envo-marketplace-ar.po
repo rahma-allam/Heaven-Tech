@@ -1,0 +1,390 @@
+# Translation of Themes - Envo Marketplace in Arabic
+# This file is distributed under the same license as the Themes - Envo Marketplace package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-09-23 02:47:48+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n == 0) ? 0 : ((n == 1) ? 1 : ((n == 2) ? 2 : ((n % 100 >= 3 && n % 100 <= 10) ? 3 : ((n % 100 >= 11 && n % 100 <= 99) ? 4 : 5))));\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ar\n"
+"Project-Id-Version: Themes - Envo Marketplace\n"
+
+#. Description of the theme
+msgid "Envo Marketplace is a fast, clean and modern-looking responsive free WooCommerce WordPress theme. This theme supports popular page builders like Elementor, KingComposer, Beaver Builder, SiteOrigin, Thrive Architect, Divi, Brizy, Visual Composer, etc. Envo Marketplace is compatible with YITH WooCommerce Wishlist, YITH WooCommerce Compare, WooCommerce Variation Swatches and other popular plugins. The theme is SEO friendly, WPML and RTL ready. Documentation: https://envothemes.com/docs/docs/envo-marketplace/ Theme demo ready to import: https://envothemes.com/envo-marketplace/"
+msgstr "Envo Marketplace عبارة عن قالب ووردبريس ووكومرس مجاني سريع ونظيف وعصري المظهر. يدعم هذا القالب منشئي الصفحات المشهورين مثل Elementor و KingComposer و Beaver Builder و SiteOrigin و Thrive Architect و Divi و Brizy و Visual Composer وما إلى ذلك. Envo Marketplace متوافق مع YITH WooCommerce Wishlist و YITH WooCommerce Compare و WooCommerce Variation Swatches وغيرها من إضافات الشائعة. القالب مألوف للSEO وجاهز لـ WPML و (من اليمين إلى اليسار) RTL. وثائق المساعدة: https://envothemes.com/docs/docs/envo-marketplace/  العرض التوضيحي للقالب جاهز للاستيراد:  https://envothemes.com/envo-marketplace/"
+
+#. Theme Name of the theme
+msgid "Envo Marketplace"
+msgstr "Envo Marketplace"
+
+#: lib/customizer/info.php:147
+msgid "View PRO version"
+msgstr "عرض النسخة الاحترافية"
+
+#: lib/customizer/info.php:145
+msgid "PRO version"
+msgstr "النسخة الاحترافية"
+
+#. translators: %s: "documentation" string
+#: lib/customizer/info.php:30
+msgid "For step-by-step videos and text tutorials, see %1$s"
+msgstr "للاطلاع على مقاطع الفيديو خطوة بخطوة والبرامج التعليمية النصية، راجع %1$s"
+
+#. translators: %s: "demos here" string
+#: lib/customizer/info.php:26
+msgid "demos"
+msgstr "العروض التوضيحية"
+
+#. translators: %s: "demos here" string
+#: lib/customizer/info.php:26
+msgid "You can use this theme to create a website like these %1$s"
+msgstr "يمكنك استخدام هذا القالب لإنشاء موقع ويب مثل هذه %1$s"
+
+#: lib/customizer/info.php:11
+msgid "Video Documentation & Demo"
+msgstr "الوثائق الفيديو والعرض التوضيحي"
+
+#: content-none.php:19
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "يبدو أننا لم نعثر على ما تطلب. لعل استعمال البحث قد يساعد."
+
+#: content-none.php:14
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "عذرًا، ولكن لا شيء يقابل مصطلحات البحث التي استعملتها. يرجى المحاولة مجددا بإستخدام كلمات أساسية أخرى."
+
+#. translators: %1$s: link to admin area
+#: content-none.php:9
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "هل أنت على استعداد لنشر مقالتك الأولى؟ <a href=\"%1$s\">ابدأ من هنا</a>."
+
+#: content-none.php:3
+msgid "Nothing Found"
+msgstr "لا يوجد شيء"
+
+#. translators: %s: search result string
+#: search.php:10
+msgid "Search Results for: %s"
+msgstr "نتائج البحث عن: %s"
+
+#. Template Name of the theme
+msgid "Page Builders"
+msgstr "منشئ الصفحات"
+
+#: template-parts/template-part-topnav.php:39
+msgid "Menu"
+msgstr "القائمة"
+
+#: functions.php:746
+msgid "Skip to the content"
+msgstr "التجاوز إلى المحتوى"
+
+#: functions.php:717
+msgid "Next"
+msgstr "التالي"
+
+#: functions.php:717
+msgid "Next Post"
+msgstr "المقالة التالية"
+
+#: functions.php:716
+msgid "Previous"
+msgstr "السابق"
+
+#: functions.php:716
+msgid "Previous Post"
+msgstr "المقالة السابقة"
+
+#: functions.php:556
+msgid "About The Author"
+msgstr "نبذة عن الكاتب"
+
+#: functions.php:533
+msgid "Comment on "
+msgstr "التعليق على "
+
+#: functions.php:530
+msgid "Off"
+msgstr "إيقاف"
+
+#: functions.php:508
+msgid "By"
+msgstr "بواسطة"
+
+#. translators: %1$s: Envo Marketplace theme name (do not translate) with
+#. envothemes.com URL
+#: functions.php:471
+msgctxt "Theme name, do not translate"
+msgid "Envo Marketplace"
+msgstr "Envo Marketplace"
+
+#. translators: %1$s: Envo Marketplace theme name (do not translate) with
+#. envothemes.com URL
+#: functions.php:471
+msgid "Theme: %1$s"
+msgstr "قالب: %1$s"
+
+#. translators: %s: WordPress name with wordpress.org URL
+#: functions.php:466
+msgid "WordPress"
+msgstr "ووردبريس"
+
+#. translators: %s: WordPress name with wordpress.org URL
+#: functions.php:466
+msgid "https://wordpress.org/"
+msgstr "https://ar.wordpress.org/"
+
+#. translators: %s: WordPress name with wordpress.org URL
+#: functions.php:466
+msgid "Proudly powered by %s"
+msgstr "بكل فخر يعمل بـ %s"
+
+#: functions.php:420
+msgid "Tags"
+msgstr "وسوم"
+
+#: functions.php:416
+msgid "Category"
+msgstr "تصنيف"
+
+#: functions.php:367
+msgid "Footer Section"
+msgstr "قسم التذييل"
+
+#: functions.php:357
+msgid "Header Section"
+msgstr "قسم الترويسة"
+
+#: functions.php:347
+msgid "Top Bar Section"
+msgstr "قسم الشريط العلوي"
+
+#: functions.php:337
+msgid "Sidebar"
+msgstr "الشريط الجانبي"
+
+#: functions.php:200
+msgctxt "Open Sans Condensed font: on or off"
+msgid "on"
+msgstr "التشغيل"
+
+#. translators: %s plugin name string
+#: functions.php:102
+msgid "The most advanced frontend drag & drop page builder."
+msgstr "أداة إنشاء الصفحات في الواجهة الأمامية بالسحب والإفلات الأكثر تقدمًا."
+
+#. translators: %s plugin name string
+#: functions.php:96
+msgid "To enable shop features, please install and activate the %s plugin."
+msgstr "لتفعيل مميزات المتجر، يرجى تنصيب وتنشيط إضافة %s."
+
+#: functions.php:90
+msgid "Save time by importing our demo data: your website will be set up and ready to be customized in minutes."
+msgstr "وفر الوقت عن طريق استيراد بيانات العرض التجريبي: سيتم إعداد موقع الويب الخاص بك و سيكون جاهز للتخصيص في دقائق."
+
+#: functions.php:26
+msgid "Categories Menu"
+msgstr "قائمة التصنيفات"
+
+#: functions.php:25
+msgid "Menu Right"
+msgstr "قائمة يمين"
+
+#: functions.php:22
+msgid "Main Menu"
+msgstr "القائمة الرئيسية"
+
+#: lib/woocommerce.php:200
+msgid "All Categories"
+msgstr "كل التصنيفات"
+
+#: lib/woocommerce.php:198
+msgid "Search products..."
+msgstr "البحث عن المنتجات..."
+
+#: lib/woocommerce.php:143 lib/woocommerce.php:165
+msgid "Categories"
+msgstr "تصنيفات"
+
+#: lib/woocommerce.php:102
+msgid "Compare"
+msgstr "قارن"
+
+#: lib/woocommerce.php:83
+msgid "Wishlist"
+msgstr "قائمة الأمنيات"
+
+#: lib/woocommerce.php:64
+msgid "My Account"
+msgstr "حسابي"
+
+#: lib/woocommerce.php:6
+msgid "Cart"
+msgstr "السلة "
+
+#: lib/wp_bootstrap_navwalker.php:362
+msgid "Add a menu"
+msgstr "أضف قائمة"
+
+#. translators: %s: "Click here" string
+#. translators: %s: "documentation" string
+#. translators: %1$s "documentation" string and link
+#: lib/customizer/demo.php:27 lib/customizer/info.php:30 lib/dashboard.php:452
+msgid "documentation"
+msgstr "الوثائق"
+
+#. translators: %s: "Click here" string
+#. translators: %1$s "documentation" string and link
+#: lib/customizer/demo.php:27 lib/dashboard.php:452
+msgid "You can import the demo content with just one click. For step-by-step video tutorial, see %1$s"
+msgstr "يمكنك استيراد المحتوى التجريبي بنقرة واحدة فقط. للحصول على فيديو تعليمي خطوة بخطوة، تفحص %1$s"
+
+#: lib/customizer/demo.php:42 lib/customizer/demo.php:44 lib/dashboard.php:443
+msgid "Import demo data"
+msgstr "استيراد بيانات العرض التوضيحي"
+
+#: lib/dashboard.php:434
+msgid "Hooray! There are no required actions for you right now."
+msgstr "مرحى! لا توجد إجراءات مطلوبة منك الآن."
+
+#: lib/dashboard.php:425
+msgid "Recommended plugins"
+msgstr "الإضافات الموصى بها"
+
+#: lib/dashboard.php:400
+msgid "Contact us"
+msgstr "اتصل بنا"
+
+#: lib/dashboard.php:398
+msgid "Having trouble? Need support?"
+msgstr "تواجه مشكلة؟ بحاجة إلى دعم؟"
+
+#. translators: %s theme name
+#: lib/dashboard.php:392
+msgid "%s Documentation"
+msgstr "%s الوثائق"
+
+#. translators: %s theme name
+#: lib/dashboard.php:385
+msgid "Need help in setting up and configuring %s? Please take a look at our documentation page."
+msgstr "هل تحتاج إلى مساعدة في إعداد وتكوين %s؟ يرجى إلقاء نظرة على صفحة وثائقنا."
+
+#: lib/dashboard.php:381
+msgid "Theme documentation"
+msgstr "وثائق القالب"
+
+#: lib/dashboard.php:377
+msgid "Start customizing"
+msgstr "ابدأ التخصيص"
+
+#. translators: %s theme name
+#: lib/dashboard.php:373
+msgid "%s supports the Theme Customizer for all theme settings. Click \"Customize\" to personalize your site."
+msgstr "%s يدعم مخصص القالب لجميع إعدادات القالب. انقر فوق \"تخصيص\" لتخصيص موقعك.."
+
+#: lib/dashboard.php:369
+msgid "Theme Customizer"
+msgstr "مخصص القالب"
+
+#: lib/customizer/demo.php:15 lib/dashboard.php:307 lib/dashboard.php:309
+msgid "One Click Demo Import"
+msgstr "استيراد العرض التجريبي بنقرة واحدة"
+
+#: lib/dashboard.php:288
+msgid "Recommended Actions"
+msgstr "الإجراءات الموصى بها"
+
+#: lib/dashboard.php:241
+msgid "Details"
+msgstr "التفاصيل"
+
+#: lib/dashboard.php:220
+msgid "Activate"
+msgstr "تفعيل"
+
+#: lib/dashboard.php:201
+msgid "Install Now"
+msgstr "التنصيب الآن"
+
+#. translators: %s theme name
+#: lib/dashboard.php:162
+msgid "Get started with %s"
+msgstr "البدء مع  %s"
+
+#. translators: %1$s: theme name, %2$s link
+#: lib/dashboard.php:154
+msgid "Welcome! Thank you for choosing %1$s! To fully take advantage of the best our theme can offer please make sure you visit our <a href=\"%2$s\">Welcome page</a>"
+msgstr "أهلا بك! شكرًا لاختيارك %1$s! للاستفادة الكاملة من أفضل ما يمكن أن يقدمه قالبنا، يرجى التأكد من زيارة <a href=\"%2$s\">Welcome page</a>"
+
+#. translators: %1$s: theme name, %2$s theme version
+#. translators: %1$s theme name, %2$s theme version
+#: lib/dashboard.php:147 lib/dashboard.php:352
+msgid "Welcome to %1$s - Version %2$s"
+msgstr "مرحبًا بك في %1$s - النسخة %2$s"
+
+#: lib/dashboard.php:126
+msgid "Envo Marketplace dashboard"
+msgstr "رئيسية Envo Marketplace"
+
+#: lib/dashboard.php:123
+msgid "Envo Marketplace theme"
+msgstr "قالب Envo Marketplace"
+
+#. translators: %s: replaced with number (counter)
+#: lib/dashboard.php:121
+msgid "Envo Marketplace theme %s"
+msgstr "قالب Envo Marketplace %s"
+
+#. translators: %1$s: replaced with number (counter)
+#: lib/dashboard.php:118
+msgid "%1$s action required"
+msgid_plural "%1$s actions required"
+msgstr[0] "%1$s إجراء مطلوب"
+msgstr[1] "%1$s إجراء مطلوب"
+msgstr[2] "%1$s إجراءين مطلوبين "
+msgstr[3] "%1$s إجراءات مطلوبة"
+msgstr[4] "%1$s إجراءات مطلوبة"
+msgstr[5] "%1$s إجراءات مطلوبة"
+
+#: 404.php:10
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "يبدو أنه لم يتم العثور على شيء في هذا الموقع. لما لا تجرّب البحث؟"
+
+#: 404.php:8
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "عفوًا! لا يمكن العثور على هذه الصفحة."
+
+#: comments.php:47
+msgid "Comments are closed."
+msgstr "التعليقات مغلقة."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:22
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "فكرة %1$s على &ldquo;%2$s&rdquo;"
+msgstr[1] "فكرة %1$s على &ldquo;%2$s&rdquo;"
+msgstr[2] "فكرتان%1$s على &ldquo;%2$s&rdquo;"
+msgstr[3] "أفكار %1$s على &ldquo;%2$s&rdquo;"
+msgstr[4] "أفكار %1$s على &ldquo;%2$s&rdquo;"
+msgstr[5] "أفكار %1$s على &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:19
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "فكرة واحدة بخصوص &ldquo;%s&rdquo;"
+
+#. Author URI of the theme
+msgid "https://envothemes.com/"
+msgstr "https://envothemes.com/"
+
+#. Author of the theme
+msgid "EnvoThemes"
+msgstr "EnvoThemes"
+
+#. Theme URI of the theme
+msgid "https://envothemes.com/free-envo-marketplace/"
+msgstr "https://envothemes.com/free-envo-marketplace/"
