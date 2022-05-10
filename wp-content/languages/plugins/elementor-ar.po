@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - Elementor Website Builder - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-02-03 19:54:21+0000\n"
+"PO-Revision-Date: 2022-04-23 00:06:06+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -10,6 +10,10 @@ msgstr ""
 "X-Generator: GlotPress/3.0.0\n"
 "Language: ar\n"
 "Project-Id-Version: Plugins - Elementor Website Builder - Stable (latest release)\n"
+
+#: modules/library/documents/page.php:65
+msgid "Add New Page Template"
+msgstr "أضف قالب صفحة جديد"
 
 #: includes/widgets/common.php:788
 msgid "Perspective"
@@ -878,6 +882,11 @@ msgstr "أعثر على خبير"
 #: core/experiments/manager.php:265
 msgid "These enhancements may include some markup changes to existing elementor widgets"
 msgstr "هذه التحسينات قد تحوي تغييرات في الترميز على ودجات Elementor الموجودة."
+
+#. translators: %1$s Link open tag, %2$s: Link close tag.
+#: core/experiments/manager.php:469
+msgid "Access new and experimental features from Elementor before they're officially released. As these features are still in development, they are likely to change, evolve or even be removed  altogether. %1$sLearn More.%2$s"
+msgstr "الوصول إلى مزايا Elementor جديدة وقيد الاختبار قبل أن يتم إصدارها بشكل رسمي. حيث أن هذه المزايا مازالت قيد التطوير, هي على الأغلب سيتم تغييرها, تطويرها, أو حتى إزالتها بالكامل. %1$sمعرفة المزيد.%2$s"
 
 #: core/experiments/manager.php:228
 msgid "Improved Asset Loading"
@@ -1749,6 +1758,10 @@ msgstr "يرجى ملاحظة أن عملية الترقية قد تتسبب ف�
 msgid "Love using Elementor? %1$sLearn how you can build better sites with Elementor Pro.%2$s"
 msgstr "هل تحب استخدام Elementor ؟ %1$sتعلّم كيف يمكنك بناء مواقع أفضل مع النسخة الاحترافية من Elementor.%2$s"
 
+#: core/files/file-types/svg.php:99 core/files/uploads-manager.php:517
+msgid "This file is not allowed for security reasons."
+msgstr "هذا الملف غير مسموح به لأسباب أمنية."
+
 #: core/experiments/manager.php:265 includes/elements/container.php:1196
 #: includes/widgets/common.php:332
 msgid "Please note!"
@@ -1881,7 +1894,7 @@ msgid "Get Popup Builder"
 msgstr "الحصول على مصمم النوافذ المنبثقة"
 
 #: includes/settings/settings.php:183
-#: includes/template-library/sources/local.php:1640 assets/js/app.js:13302
+#: includes/template-library/sources/local.php:1643 assets/js/app.js:13302
 #: assets/js/kit-library.c7db5f02248493fe3f04.bundle.js:2147
 msgid "Popups"
 msgstr "النوافذ المنبثقة"
@@ -1889,7 +1902,7 @@ msgstr "النوافذ المنبثقة"
 #: core/app/app.php:40 core/app/app.php:41
 #: core/app/modules/site-editor/module.php:31
 #: core/common/modules/finder/categories/general.php:72
-#: includes/template-library/sources/local.php:1639
+#: includes/template-library/sources/local.php:1642
 #: assets/js/app-packages.js:7506 assets/js/editor.js:42504
 msgid "Theme Builder"
 msgstr "مصمم القوالب"
@@ -1938,7 +1951,7 @@ msgstr "تم تحميل المحرر بنجاح؟"
 msgid "Choose File"
 msgstr "اختيار ملف"
 
-#: includes/template-library/sources/local.php:1343
+#: includes/template-library/sources/local.php:1346
 msgctxt "Template Library"
 msgid "Filter by category"
 msgstr "تصفية حسب التصنيف"
@@ -2379,6 +2392,11 @@ msgctxt "Filter Control"
 msgid "CSS Filters"
 msgstr "مرشحات CSS"
 
+#. translators: %1$s Code open tag, %2$s: Code close tag.
+#: includes/widgets/traits/button-trait.php:222
+msgid "Please make sure the ID is unique and not used elsewhere on the page this form is displayed. This field allows <code>A-z 0-9</code> & underscore chars without spaces."
+msgstr "يرجى التأكد من أن المعرف فريد وغير مستخدم في مكان آخر على الصفحة التي يتم عرض هذا النموذج عليها. يسمح هذا الحقل باستخدام رموز <code>A-z 0-9</code> & الشَرطة السفلية بدون فراغات."
+
 #: core/admin/admin.php:174 assets/js/admin.js:5400 assets/js/gutenberg.js:796
 msgid "Back to WordPress Editor"
 msgstr "الرجوع الى محرر وردبرس"
@@ -2391,7 +2409,7 @@ msgstr "Elementor %s"
 #. translators: %s: Template type label.
 #: core/base/document.php:173
 #: core/common/modules/finder/categories/create.php:86
-#: includes/template-library/sources/local.php:1317
+#: includes/template-library/sources/local.php:1320
 msgid "Add New %s"
 msgstr "أضف %s"
 
@@ -2477,7 +2495,7 @@ msgstr "نموذج الصفحة الافتراضي من قالبك."
 msgid "Play Video"
 msgstr "تشغيل الفيديو"
 
-#: includes/template-library/sources/local.php:1183
+#: includes/template-library/sources/local.php:1186
 msgid "All"
 msgstr "الكل"
 
@@ -2533,7 +2551,7 @@ msgid "Add New"
 msgstr "اضافة جديد"
 
 #. translators: %s: Template type label.
-#: includes/template-library/sources/local.php:1310
+#: includes/template-library/sources/local.php:1313
 msgid "Create Your First %s"
 msgstr "اضافة %s الأول الخاص بك"
 
@@ -2606,7 +2624,7 @@ msgstr "نمط الجسم"
 msgid "Document"
 msgstr "وثيقة"
 
-#: includes/template-library/sources/local.php:1277
+#: includes/template-library/sources/local.php:1280
 msgid "Add templates and reuse them across your website. Easily export and import them to any other project, for an optimized workflow."
 msgstr "أضف القوالب وأعد استخدامها على موقعك الإلكتروني. بسهولة يمكنك تصدير واستيراد القوالب إلى أي مشروع آخر، لسير عمل محسن."
 
@@ -3010,7 +3028,7 @@ msgctxt "Text Shadow Control"
 msgid "Text Shadow"
 msgstr "ظل النص"
 
-#: includes/template-library/sources/local.php:916
+#: includes/template-library/sources/local.php:919
 msgid "Choose an Elementor template JSON file or a .zip archive of Elementor templates, and add them to the list of templates available in your library."
 msgstr "أختر قالب عنصر بصيغة JSON او ZIP واضف إلى قائمة العناصر المتاحة فى المكتبة"
 
@@ -3551,6 +3569,13 @@ msgstr "إبدأ بتصميم صفحتك وسوف تكون قادراً على �
 msgid "<strong>Important:</strong> It is strongly recommended that you <a target=\"_blank\" href=\"%s\">backup your database</a> before using Replace URL."
 msgstr "<strong>هام:</strong> من الضروري جدا ان تقوم بعمل <a target=\"_blank\" href=\"%s\">نسخة احتياطية</a> قبل استخدام تغيير رابط الموقع."
 
+#. translators: 1: Minimum recommended_memory, 2: Preferred memory, 3:
+#. WordPress wp-config memory documentation.
+#: modules/system-info/reporters/server.php:159
+msgctxt "System Info"
+msgid "We recommend setting memory to at least %1$s. (%2$sMB or higher is preferred) For more information, read about <a href=\"%3$s\">how to Increase memory allocated to PHP</a>."
+msgstr "نحن ننصح بإعداد الذاكرة إلى على الأقل %1$s.  (يُفضّل %2$sميجابايت  أو اعلى) من أجل معلومات أكثر, إقرأ حول <a href=\"%3$s\">PHPكيفية زيادة الذاكرة المحجوزة لـ  </a>."
+
 #: includes/widgets/counter.php:170
 msgid "Thousand Separator"
 msgstr "فاصلة الالاف"
@@ -3697,7 +3722,7 @@ msgid "Shortcode"
 msgstr "الكود المختصر"
 
 #: includes/editor-templates/templates.php:190
-#: includes/template-library/sources/local.php:1101 assets/js/app.js:14351
+#: includes/template-library/sources/local.php:1104 assets/js/app.js:14351
 msgid "Export"
 msgstr "تصدير"
 
@@ -3764,11 +3789,11 @@ msgstr "لا توجد نماذج في سلة المهملات"
 msgid "(no title)"
 msgstr "(غير معنون)"
 
-#: includes/template-library/sources/local.php:886
+#: includes/template-library/sources/local.php:889
 msgid "Export Template"
 msgstr "تصدير النموذج"
 
-#: includes/template-library/sources/local.php:923
+#: includes/template-library/sources/local.php:926
 msgid "Import Now"
 msgstr "الاستيراد الآن"
 
@@ -3828,7 +3853,7 @@ msgctxt "Template Library"
 msgid "Type"
 msgstr "النوع"
 
-#: includes/template-library/sources/local.php:914
+#: includes/template-library/sources/local.php:917
 msgid "Import Templates"
 msgstr "إستيراد النماذج"
 
@@ -3855,7 +3880,7 @@ msgid "Close"
 msgstr "إغلاق"
 
 #: includes/template-library/sources/local.php:385
-#: includes/template-library/sources/local.php:1638 assets/js/app.js:13301
+#: includes/template-library/sources/local.php:1641 assets/js/app.js:13301
 msgid "Saved Templates"
 msgstr "القوالب المحفوطة"
 
@@ -3987,6 +4012,10 @@ msgstr "الأيقونات الاجتماعية"
 #: includes/widgets/social-icons.php:261
 msgid "Rounded"
 msgstr "دائرية"
+
+#: core/kits/documents/tabs/global-colors.php:124
+msgid "Custom Colors"
+msgstr "ألوان مخصصة"
 
 #. translators: %s: Elementor version.
 #: core/admin/admin-notices.php:139
@@ -4594,7 +4623,7 @@ msgstr "تنبيه"
 
 #: includes/editor-templates/templates.php:113
 #: includes/elements/container.php:1005 includes/elements/section.php:967
-#: includes/template-library/sources/local.php:1609
+#: includes/template-library/sources/local.php:1612
 #: includes/widgets/alert.php:95 includes/widgets/progress.php:109
 #: includes/widgets/traits/button-trait.php:70
 msgid "Type"
@@ -5971,6 +6000,10 @@ msgstr "المقالات"
 msgid "Description"
 msgstr "الوصف"
 
+#: includes/elements/section.php:288
+msgid "Wide"
+msgstr "واسع"
+
 #: core/base/document.php:1581
 #: core/kits/documents/tabs/settings-lightbox.php:96
 #: core/kits/documents/tabs/settings-lightbox.php:100
@@ -5987,10 +6020,6 @@ msgstr "الوصف"
 #: includes/widgets/testimonial.php:367 includes/widgets/toggle.php:306
 msgid "Title"
 msgstr "العنوان"
-
-#: includes/elements/section.php:288
-msgid "Wide"
-msgstr "واسع"
 
 #: includes/widgets/heading.php:147
 msgid "XL"
